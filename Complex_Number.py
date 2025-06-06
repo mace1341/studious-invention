@@ -1,5 +1,9 @@
+# Libraries
 from sympy import symbols, pi, Eq, solve, simplify, Rational, cos, sin
 import pandas as pd
+
+# Description: The code is used to solve problems similar to this
+# Find all Solutions in C of the given equation:  Z^3 = -125
 
 # define symbols
 theta, n = symbols('theta n', real=True)
