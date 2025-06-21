@@ -47,7 +47,7 @@ def print_subgroups(subgroup_dict):
 
 
 # Run for Z_18
-n = 18
+n = 6
 print(f"Subgroups of Z_{n}:\n")
 subgroups = find_all_subgroups(n)
 print_subgroups(subgroups)
